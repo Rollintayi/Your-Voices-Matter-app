@@ -1,2 +1,2 @@
-# poll-app : Correspond pour le frontend
-# vote : Correspond pour le backend
+- poll-app : Correspond au frontend
+- vote : Correspond au backend
